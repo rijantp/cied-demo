@@ -1,0 +1,1 @@
+import{B as e,j as o,m as n,pa as s,xa as a}from"./chunk-JIAGJEKZ.js";var h=(()=>{let t=class t{constructor(){this.userAuthSig=e(void 0),this.http=n(s)}loginUser(i){return this.http.post(`${a.apiBaseUrl}accounts/login/`,i)}};t.\u0275fac=function(c){return new(c||t)},t.\u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"});let r=t;return r})();export{h as a};
